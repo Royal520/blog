@@ -1,0 +1,14 @@
+// place your custom styles here
+body {
+  font-size: 20px !important;
+}
+
+:root {
+  --sidebar-space: 10vw;
+  --sidebar-width: 16vw;
+  --wide-content-width: 60vw
+}
+
+.vp-sidebar{
+    padding-inline-start:2vw
+}
